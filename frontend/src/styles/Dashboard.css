@@ -1,0 +1,20 @@
+.dashboard-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dashboard-links {
+  margin-top: 20px;
+}
+
+.dashboard-links a {
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+  color: #4CAF50;
+  font-size: 18px;
+}
+
+.dashboard-links a:hover {
+  color: #45a049;
+}
